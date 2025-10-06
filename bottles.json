@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "AquaPure 1L",
+    "capacity": "1 Liter",
+    "material": "Plastic (BPA Free)",
+    "price": 150,
+    "color": "Blue",
+    "weight": "120g",
+    "usageLife": "2 years",
+    "suitableFor": "Cold water only",
+    "img": "https://via.placeholder.com/150/0000FF/FFFFFF?text=AquaPure+1L"
+  },
+  {
+    "id": 2,
+    "name": "HydroSteel 750ml",
+    "capacity": "750 ml",
+    "material": "Stainless Steel",
+    "price": 450,
+    "color": "Silver",
+    "weight": "300g",
+    "usageLife": "5 years",
+    "suitableFor": "Hot & Cold water",
+    "img": "https://via.placeholder.com/150/C0C0C0/000000?text=HydroSteel+750ml"
+  },
+  {
+    "id": 3,
+    "name": "EcoSip 500ml",
+    "capacity": "500 ml",
+    "material": "Glass",
+    "price": 300,
+    "color": "Transparent",
+    "weight": "250g",
+    "usageLife": "3 years",
+    "suitableFor": "Cold water only",
+    "img": "https://via.placeholder.com/150/CCCCCC/000000?text=EcoSip+500ml"
+  },
+  {
+    "id": 4,
+    "name": "SportFlex 1.5L",
+    "capacity": "1.5 Liter",
+    "material": "Plastic (BPA Free)",
+    "price": 200,
+    "color": "Red",
+    "weight": "180g",
+    "usageLife": "2 years",
+    "suitableFor": "Cold water only",
+    "img": "https://via.placeholder.com/150/FF0000/FFFFFF?text=SportFlex+1.5L"
+  },
+  {
+    "id": 5,
+    "name": "ThermoHydrate 1L",
+    "capacity": "1 Liter",
+    "material": "Insulated Steel",
+    "price": 600,
+    "color": "Black",
+    "weight": "400g",
+    "usageLife": "6 years",
+    "suitableFor": "Hot & Cold water",
+    "img": "https://via.placeholder.com/150/000000/FFFFFF?text=ThermoHydrate+1L"
+  }
+]
